@@ -1,0 +1,17 @@
+Ejercicio Calculadora de Descuento
+
+En este ejercicio, se te pide crear un programa que permita calcular el precio con descuento de un producto. El usuario deberá ingresar dos valores
+
+Precio Original del Producto El precio base del producto antes de aplicar cualquier descuento.
+
+Porcentaje de Descuento El porcentaje de descuento que se aplicará al precio original.
+
+El programa debe realizar los siguientes pasos
+
+Verificar que los valores ingresados por el usuario sean numéricos y válidos.
+
+Calcular el precio con descuento aplicando el porcentaje de descuento al precio original.
+
+Mostrar al usuario el precio original, el porcentaje de descuento y el precio con descuento calculado.
+
+Este ejercicio te permite aplicar conceptos relacionados con la entrada de datos, la validación de valores, el cálculo de descuentos y la presentación de resultados. Puedes implementar este ejercicio utilizando funciones para modularizar tu código.
